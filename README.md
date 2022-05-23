@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" alt="adam-pw" /></p>
+<p><img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" alt="adam-pw" /></p>
 
 <!--
 **heba-Abdelhakam/heba-Abdelhakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
