@@ -3,12 +3,12 @@
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="heba-Abdelhakam" /> 
   </p>
 
 <br>
 
-<p><img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" alt="adam-pw" /></p>
+<p><img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" alt="heba-Abdelhakam" /></p>
 
 <!--
 **heba-Abdelhakam/heba-Abdelhakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
