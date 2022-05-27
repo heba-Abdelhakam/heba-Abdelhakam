@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heba Abdelhakam</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-<!--<img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" width = 500px/> -->
+<div align="center">
+<img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" width = 500px/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heba-abdelhakam&label=Profile%20views&color=0e75b6&style=flat" alt="heba-abdelhakam" /> </p>
 
