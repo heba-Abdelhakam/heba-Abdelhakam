@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <div align="center">
-<img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" width = 500px/>
+<img align="center" src="https://github.com/heba-Abdelhakam/heba-Abdelhakam/blob/main/Img/AI%20and%20Deep%20Learning.gif" width = 400px/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heba-abdelhakam&label=Profile%20views&color=0e75b6&style=flat" alt="heba-abdelhakam" /> </p>
@@ -32,11 +32,10 @@
 </p>
 
 <h3 align="left">Frontend Development</h3>
-<p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
+
 
 <h3 align="left">Other</h3>
 <p align="left"> 
